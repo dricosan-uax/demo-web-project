@@ -1,6 +1,6 @@
 <html>
 <body>
 <h2>Hello World! This a new edit</h2>
-<p>Pipeline webhook test</p>
+<p>Webhook test for the pipeline</p>
 </body>
 </html>
